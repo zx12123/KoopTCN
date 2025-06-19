@@ -10,4 +10,4 @@ torch 2.60 numpy 1.25.2 pandas 1.4.2
 
 ##explanation
 
-The code file contains the py files of all the models we used.
+The code file contains the py files of all the models we used.data_provider, exp, models, and run.py belong to the KoopTCN model file, and the rest of the files are baseline models
